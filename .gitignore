@@ -1,0 +1,10 @@
+env/
+heart_rate/
+heart_rate_csv/
+labels/
+labels_csv/
+motion/
+motion_csv/
+og_data/
+steps_csv/
+.ipynb_checkpoints/
