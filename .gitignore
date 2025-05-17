@@ -2,9 +2,11 @@ env/
 heart_rate/
 heart_rate_csv/
 labels/
+steps/
 labels_csv/
 motion/
 motion_csv/
 og_data/
 steps_csv/
+.DS_Store
 .ipynb_checkpoints/
